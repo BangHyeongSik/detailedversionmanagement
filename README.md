@@ -1,4 +1,4 @@
-# 세부적 버전 관리 (Detailed Version Management 1.0.0_Release.1.00001)
+# 세부적인 버전 관리 (Detailed Version Management 1.0.0_Release.1.00001)
 
 0. 구조
  Major.Minor.Patch_Identifier.Metadata.Build

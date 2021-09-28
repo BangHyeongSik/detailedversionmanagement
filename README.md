@@ -24,7 +24,7 @@
  3). Patch 버전이 상승하면 SubPart의 내용을 초기화한다. [Minor와 Major도 마찬가지이다.]  
  4). 버전이 9를 넘었을 경우에는 10, 11...을 쓰며 이전 버전에서는 자릿수를 맞출 필요가 없다.  
   
-2. Identifier는 두 가지 방식 중 한 가지를 선택하는 것으로 한다.
+2. Identifier는 두 가지 방식 중 한 가지를 선택하는 것으로 한다.  
  1). Personal, Private, Protected, Public, Release을 붙인다.  
   (1). Personal : Metadata를 붙힐 수 없으며, 개인용으로 쓴다.  
   (2). Private : MetaData를 붙힐 수 있으며, 내부 실험용으로 쓴다.  
